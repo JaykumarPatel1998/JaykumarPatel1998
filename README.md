@@ -41,15 +41,15 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="Humber logo" src="https://humber.ca/brand/sites/default/files/logos/Primary_Logo/Humber_Logo_Blue_and_Gold_Centered.png"/>](https://humber.ca/)
 **Information Technology Solutions** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
+[**HUMBER**](https://humber.ca/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="TCS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/768px-Tata_Consultancy_Services_Logo.svg.png"/>](https://tcs.com/)
 **Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
+[**One Bit Code**](https://tcs.com/) • In progress \
 Skills: `HTML5` `CSS3` `NodeJS` `Git` `TypeScript` `MySql` `Java` `ExpressJS`
 `VueJS` `ReactJS` `SpringBoot`
 <br>
