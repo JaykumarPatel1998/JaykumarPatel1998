@@ -41,13 +41,13 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Humber logo" src="https://humber.ca/brand/sites/default/files/logos/Primary_Logo/Humber_Logo_Blue_and_Gold_Centered.png"/>](https://humber.ca/)
+[<img align="left" height="94px" width="130px" alt="Humber logo" src="https://humber.ca/brand/sites/default/files/logos/Primary_Logo/Humber_Logo_Blue_and_Gold_Centered.png"/>](https://humber.ca/)
 **Information Technology Solutions** \
 [**HUMBER**](https://humber.ca/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="TCS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/768px-Tata_Consultancy_Services_Logo.svg.png"/>](https://tcs.com/)
+[<img align="left" height="94px" width="130px" alt="TCS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/768px-Tata_Consultancy_Services_Logo.svg.png"/>](https://tcs.com/)
 **Full Stack Developer** \
 [**One Bit Code**](https://tcs.com/) • In progress \
 Skills: `HTML5` `CSS3` `NodeJS` `Git` `TypeScript` `MySql` `Java` `ExpressJS`
