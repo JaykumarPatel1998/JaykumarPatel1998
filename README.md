@@ -49,7 +49,7 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 
 [<img align="left" height="94px" width="130px" alt="TCS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/768px-Tata_Consultancy_Services_Logo.svg.png"/>](https://tcs.com/)
 **Full Stack Developer** \
-[**TCS**](https://tcs.com/) • In progress \
+[**TCS**](https://tcs.com/) • 02/21 - 12/22 \
 Skills: `HTML5` `CSS3` `NodeJS` `Git` `TypeScript` `MySql` `Java` `ExpressJS`
 `VueJS` `ReactJS` `SpringBoot`
 <br>
