@@ -53,8 +53,7 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 [<img align="left" height="94px" width="130px" alt="TCS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/768px-Tata_Consultancy_Services_Logo.svg.png"/>](https://tcs.com/)
 **Full Stack Developer** \
 [**TCS**](https://tcs.com/) • Feb 21 - Dec 22 \
-Skills: `HTML5` `CSS3` `NodeJS` `Git` `TypeScript` `MySql` `Java` `ExpressJS`
-`VueJS` `ReactJS` `SpringBoot`
+Skills: `HTML5` `CSS3` `ReactJS`
 <br>
 DevOps Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics` `Cloud Computing`
 `Project Management` `Software Development` `Software Security` `Software Quality`
